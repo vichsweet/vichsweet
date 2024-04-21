@@ -4,7 +4,7 @@
 - 🌱 Aprendendo HTML e CSS, Python
 - 😄 Pronomes: ele/dele
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vichsweet&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichsweet&layout=compact)
 
   <div style="display: inline_block"><br>
